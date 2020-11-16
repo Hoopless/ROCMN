@@ -17,7 +17,7 @@ zend_extension = "C:\xampp\php\ext\php_xdebug-2.9.8-7.4-vc15-x86_64.dll"
 ## Stap 3
 Kijk naar je PHPinfo en maak een copy van het eerste stuk en plak deze in de [xdebug wizard](https://xdebug.org/wizard).
 
-Je krijgt een file en die moet ik de XAMPP path en daarin naar `php/ext` en zet de downloaded file daarin.
+Je krijgt een file vanuit xdebug wizard en die moet je in de XAMPP folder naar de path en daarin naar `php/ext` toe gaan en zet de file daarin.
 
 ## Stap 4
 Zorg ervoor dat in je settings.json van VS code de volgende variable staat;
